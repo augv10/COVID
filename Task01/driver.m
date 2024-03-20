@@ -1,6 +1,6 @@
 % Insert State
-
-US_State='MD' % Maryland
+clear
+US_State='MA' % Maryland
 
 
 
